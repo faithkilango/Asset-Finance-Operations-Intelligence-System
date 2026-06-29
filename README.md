@@ -10,7 +10,7 @@ An end-to-end business intelligence case study that transforms fragmented operat
 
 ## Business Problem
 
-An asset-finance and rent-to-own mobility business manages customers, financed assets, weekly earnings, repayments, maintenance charges and payouts across disconnected spreadsheets and operational systems.
+An asset-finance and rent-to-own mobility business manages riders, financed assets, weekly earnings, repayments, maintenance charges and payouts across disconnected spreadsheets and operational systems.
 
 This makes it difficult for management to obtain a consistent view of:
 
