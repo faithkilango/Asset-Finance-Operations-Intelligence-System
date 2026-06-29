@@ -77,6 +77,41 @@ Management insights and actions
 * Excel
 * GitHub
 
-## Repository Structure
+## Planned Repository Structure
 
-The repository structure, sample data, database scripts, analytical logic and dashboard documentation will be added progressively as the project is developed.
+asset-finance-operations-intelligence/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── data/
+│   ├── sample/
+│   └── processed/
+│
+├── docs/
+│   ├── project_scope.md
+│   ├── business_requirements.md
+│   ├── business_questions.md
+│   ├── kpi_dictionary.md
+│   ├── data_model.md
+│   └── findings_and_recommendations.md
+│
+├── python/
+│   ├── generate_sample_data.py
+│   ├── data_cleaning.py
+│   └── data_validation.py
+│
+├── sql/
+│   ├── 01_create_schema.sql
+│   ├── 02_create_tables.sql
+│   ├── 03_create_constraints.sql
+│   ├── 04_data_quality_checks.sql
+│   ├── 05_business_logic.sql
+│   ├── 06_kpi_queries.sql
+│   └── 07_reporting_views.sql
+│
+├── dashboard/
+│   └── screenshots/
+│
+└── images/
