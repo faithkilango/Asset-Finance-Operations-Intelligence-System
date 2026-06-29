@@ -34,6 +34,16 @@ Build a reliable business intelligence solution that:
 6. Monitors fleet and customer risk.
 7. Presents decision-ready management KPIs in Power BI.
 
+## Business Value
+The solution is designed to help management:
+1. Improve visibility into collections and outstanding balances
+2. Reduce manual reconciliation work
+3. Detect data-quality problems earlier
+4. Identify high-risk customer accounts
+5. Monitor asset utilization and downtime
+6. Prioritize operational and collection interventions
+7. Make faster and more consistent decisions 
+
 ## Planned Solution Architecture
 
 ```text
