@@ -14,13 +14,13 @@ An asset-finance and rent-to-own mobility business manages riders, financed asse
 
 This makes it difficult for management to obtain a consistent view of:
 
-* expected versus actual collections
-* customer outstanding balances
-* payout calculations
-* asset utilization
-* maintenance and downtime
-* high-risk accounts
-* reconciliation and data-quality exceptions
+- Expected versus actual collections
+- Rider outstanding balances
+- Payout calculations
+- Asset utilization
+- Maintenance and downtime
+- High-risk rider accounts
+- Reconciliation and data-quality exceptions
 
 ## Project Objective
 
@@ -29,9 +29,9 @@ Build a reliable business intelligence solution that:
 1. Structures fragmented operational data.
 2. Cleans and validates source records.
 3. Centralizes reporting data in PostgreSQL.
-4. automates weekly repayment and payout calculations.
+4. Automates weekly repayment and payout calculations.
 5. Identifies reconciliation exceptions.
-6. Monitors fleet and customer risk.
+6. Monitors fleet and rider risk.
 7. Presents decision-ready management KPIs in Power BI.
 
 ## Business Value
@@ -79,6 +79,7 @@ Management insights and actions
 
 ## Planned Repository Structure
 
+```text
 asset-finance-operations-intelligence/
 │
 ├── README.md
@@ -115,3 +116,4 @@ asset-finance-operations-intelligence/
 │   └── screenshots/
 │
 └── images/
+```
